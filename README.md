@@ -1,1 +1,1 @@
-# single-cell-ran-seq-and-CellChat-analysis
+# single-cell-rna-seq-and-CellChat-analysis
